@@ -10,8 +10,7 @@
                 
             <b-navbar-nav  class="float-right">
                 <b-nav-item class="active" href="#">Home</b-nav-item>
-                <b-nav-item href="#">Contact US</b-nav-item>
-                <b-nav-item href="#">About Us</b-nav-item>
+                
                
             </b-navbar-nav> 
             <!-- right  nav items  -->
