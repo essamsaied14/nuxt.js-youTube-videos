@@ -1,0 +1,49 @@
+/* style to header-component */
+.navbar-brand img{
+    width: 100px;
+   margin-left: 50px;
+
+}  
+
+   
+.nkn {
+  margin-left: 10%;
+  height: 25px;
+  width: 44px;
+  color: #FFFFFF;
+  font-family: ".SF NS Display";
+  font-size: 20px;
+  line-height: 23px;
+}
+.navbar-nav{
+  margin: auto
+}
+.navbar-nav .nav-item .nav-link{
+  margin: 0px 10px
+}
+.navbar-nav .nav-item{
+font-family: "Playfair Display";
+  font-size: 16px;
+  line-height: 21px;
+}
+.navbar-nav .active > .nav-link{
+color: #E0AD1E  !important ;
+;
+}
+ 
+  
+.rectangle-2 {
+  box-sizing: border-box;
+  height: 36px;
+  width: 113px;
+  border: 1px solid #E0AD1E;
+  border-radius: 5px;
+  background-color: #2D2D2D;
+}
+.rectangle-2 a{
+  text-align: center;
+color: #E0AD1E  !important ;
+  font-family: "Playfair Display";
+  font-size: 16px;
+  line-height: 21px; ;
+}
